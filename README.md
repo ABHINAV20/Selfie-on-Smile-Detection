@@ -10,4 +10,4 @@
 
 
 ## Descrption
-Python app to take selfie when it detects a smile using dlib, imutils, opencv.
+Python app to take selfie when it detects a smile.
